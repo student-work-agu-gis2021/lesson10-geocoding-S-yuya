@@ -146,5 +146,11 @@ azabu_sum=round(azabu["PTN_2020"].sum())
 # - What was difficult?
 
 # YOUR ANSWER HERE
+# Problem1,5  
+# Problem2,5  
+# Problem3,5 
+# It was too difficult for me about to meke adress.
+# Problem1
 
+#How to make an address
 # Well done!
